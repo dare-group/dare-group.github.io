@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Wowchemy Research Group</title>
-    <link>https://example.com/categories/</link>
-      <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | 网络空间安全学院Saiin课题组</title>
+    <link>https://dare-group.github.io/categories/</link>
+      <atom:link href="https://dare-group.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://dare-group.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Categories</title>
-      <link>https://example.com/categories/</link>
+      <link>https://dare-group.github.io/categories/</link>
     </image>
     
   </channel>
