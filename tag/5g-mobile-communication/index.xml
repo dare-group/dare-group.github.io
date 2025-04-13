@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5G Mobile Communication | 网络空间安全学院Dare课题组</title>
+    <link>https://dare-group.github.io/tag/5g-mobile-communication/</link>
+      <atom:link href="https://dare-group.github.io/tag/5g-mobile-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>5G Mobile Communication</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dare-group.github.io/media/icon_hu_5b4fc445eea16fa0.png</url>
+      <title>5G Mobile Communication</title>
+      <link>https://dare-group.github.io/tag/5g-mobile-communication/</link>
+    </image>
+    
+    <item>
+      <title>Internet of Digital Twin: Framework, Applications and Enabling Technologies</title>
+      <link>https://dare-group.github.io/publication/internetofdigitaltwinframeworkapplicationsandenablingtechnologies/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://dare-group.github.io/publication/internetofdigitaltwinframeworkapplicationsandenablingtechnologies/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

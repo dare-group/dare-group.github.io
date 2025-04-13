@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张嘉昌 | 网络空间安全学院Dare课题组</title>
+    <link>https://dare-group.github.io/author/%E5%BC%A0%E5%98%89%E6%98%8C/</link>
+      <atom:link href="https://dare-group.github.io/author/%E5%BC%A0%E5%98%89%E6%98%8C/index.xml" rel="self" type="application/rss+xml" />
+    <description>张嘉昌</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://dare-group.github.io/author/%E5%BC%A0%E5%98%89%E6%98%8C/avatar_hu_f35a9639f292dbcf.jpg</url>
+      <title>张嘉昌</title>
+      <link>https://dare-group.github.io/author/%E5%BC%A0%E5%98%89%E6%98%8C/</link>
+    </image>
+    
+    <item>
+      <title>张嘉昌</title>
+      <link>https://dare-group.github.io/author/%E5%BC%A0%E5%98%89%E6%98%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dare-group.github.io/author/%E5%BC%A0%E5%98%89%E6%98%8C/</guid>
+      <description>&lt;p&gt;张嘉昌为西安交通大学网络空间安全学院Dare课题组研一学生，目前方向为大模型、强化学习等。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

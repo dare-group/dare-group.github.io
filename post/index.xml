@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News | 网络空间安全学院Dare课题组</title>
+    <title>新闻 | 网络空间安全学院Dare课题组</title>
     <link>https://dare-group.github.io/post/</link>
       <atom:link href="https://dare-group.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <description>新闻</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dare-group.github.io/media/icon_hu_5b4fc445eea16fa0.png</url>
-      <title>Latest News</title>
+      <title>新闻</title>
       <link>https://dare-group.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>栾老师于IEEE发表论文Internet of Digital Twin:Framework, Applications and Enabling Technologies</title>
+      <link>https://dare-group.github.io/post/build/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://dare-group.github.io/post/build/</guid>
+      <description>&lt;p&gt;恭喜栾老师在2025年3月25日在IEEE发表论文Internet of Digital Twin:Framework, Applications and Enabling Technologies。&lt;/p&gt;
+&lt;p&gt;2025年3月25日——西安交通大学网络空间安全学院栾浩教授团队的研究成果《Internet of Digital Twin: Framework, Applications and Enabling Technologies》近日被IEEE旗舰期刊（影响因子10.961）正式收录。该论文系统构建了数字孪生网络（IoDT）的功能框架与技术体系，为工业互联网、智慧城市等领域的虚实协同与安全防护提供了理论突破与实践路径，标志着我国在数字孪生技术领域的国际学术影响力进一步提升。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
