@@ -9738,3 +9738,102 @@ div.chart {
 
 .cta-group {
   justify-content: center; }
+
+.section-subheading {
+  font-size: 1.25rem;
+  font-family: "", sans-serif;
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem; }
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: var(--fa-li-margin, 2.5em);
+  padding-left: 0; }
+
+ul.ul-Researchachievement {
+  display: flex;
+  /* 将 ul 设置为弹性布局 */
+  flex-wrap: wrap;
+  /* 禁止换行，确保所有 li 在同一行 */
+  overflow-x: noauto;
+  /* 如果内容超出容器宽度，允许横向滚动 */
+  padding: 2;
+  /* 可选：移除默认的 ul 内边距 */
+  margin: 0;
+  /* 可选：移除默认的 ul 外边距 */ }
+
+ul.ul-Researchachievement li {
+  position: relative;
+  padding: 0 12px 4px 5px;
+  white-space: nowrap;
+  /* 防止 li 内部的内容换行 */
+  flex-shrink: 0;
+  /* 防止 li 被压缩 */ }
+
+.portrait-title h3 {
+  white-space: pre-line;
+  /* 允许在空格处换行 */
+  word-break: break-word;
+  /* 确保长单词也能断行 */
+  text-align: center;
+  /* 可选：居中对齐 */
+  margin: 0;
+  /* 可选：移除默认外边距 */ }
+
+.hero-title {
+  font-size: 2.7rem;
+  margin-top: 0px;
+  line-height: 1; }
+
+.page-footer {
+  background-color: #1a202c;
+  color: #fff;
+  font-size: 14px; }
+
+.page-footer > .container {
+  margin-top: 2em;
+  margin-bottom: 2em; }
+
+footer {
+  margin: 4rem 0 0;
+  width: 200%;
+  margin-left: -50%; }
+
+footer p {
+  font-size: 0.75rem;
+  text-align: center; }
+  @media (max-width: 767.98px) {
+    footer p {
+      /* 12px is min size required by Lighthouse on mobile */
+      font-size: 12px; } }
+footer .powered-by {
+  font-size: 0.67rem; }
+  @media (max-width: 767.98px) {
+    footer .powered-by {
+      /* 12px is min size required by Lighthouse on mobile */
+      font-size: 16px;
+      color: #fff; } }
+.site-footer {
+  color: rgba(0, 0, 0, 0.54); }
+
+.dark .site-footer,
+.dark .docs .body-footer {
+  color: rgba(255, 255, 255, 0.54);
+  background-color: rgba(40, 40, 40, 0.8); }
+
+.footer-license-icons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  height: auto;
+  width: auto;
+  text-decoration: none; }
+
+.footer-license-icons i {
+  display: inline-flex;
+  margin-right: 8px;
+  height: 22px;
+  vertical-align: text-bottom; }

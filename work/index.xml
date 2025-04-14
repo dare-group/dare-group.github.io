@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>科研成果 | 网络空间安全学院Dare课题组</title>
+    <link>https://dare-group.github.io/work/</link>
+      <atom:link href="https://dare-group.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <description>科研成果</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 07 Mar 2024 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dare-group.github.io/media/icon_hu_5b4fc445eea16fa0.png</url>
+      <title>科研成果</title>
+      <link>https://dare-group.github.io/work/</link>
+    </image>
+    
+    <item>
+      <title>云脑巡检系统</title>
+      <link>https://dare-group.github.io/work/yunnao/</link>
+      <pubDate>Thu, 07 Mar 2024 13:00:00 +0000</pubDate>
+      <guid>https://dare-group.github.io/work/yunnao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
