@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>李怡诺 | 网络空间安全学院Dare课题组</title>
-    <link>https://dare-group.github.io/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/</link>
-      <atom:link href="https://dare-group.github.io/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/</link>
+      <atom:link href="http://localhost:1313/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/index.xml" rel="self" type="application/rss+xml" />
     <description>李怡诺</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://dare-group.github.io/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/avatar_hu_dd41470ee34f067c.png</url>
+      <url>http://localhost:1313/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/avatar_hu_dd41470ee34f067c.png</url>
       <title>李怡诺</title>
-      <link>https://dare-group.github.io/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/</link>
+      <link>http://localhost:1313/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/</link>
     </image>
     
     <item>
       <title>李怡诺</title>
-      <link>https://dare-group.github.io/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/</link>
+      <link>http://localhost:1313/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/</guid>
+      <guid>http://localhost:1313/author/%E6%9D%8E%E6%80%A1%E8%AF%BA/</guid>
       <description>&lt;p&gt;李怡诺，2024级学术型硕士，网络空间安全专业。研究方向为计算机视觉。参与云脑项目开发。&lt;/p&gt;
 </description>
     </item>

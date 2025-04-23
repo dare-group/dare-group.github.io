@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>常远 | 网络空间安全学院Dare课题组</title>
-    <link>https://dare-group.github.io/author/%E5%B8%B8%E8%BF%9C/</link>
-      <atom:link href="https://dare-group.github.io/author/%E5%B8%B8%E8%BF%9C/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%B8%B8%E8%BF%9C/</link>
+      <atom:link href="http://localhost:1313/author/%E5%B8%B8%E8%BF%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>常远</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://dare-group.github.io/author/%E5%B8%B8%E8%BF%9C/avatar_hu_ed327d61dc30c605.jpg</url>
+      <url>http://localhost:1313/author/%E5%B8%B8%E8%BF%9C/avatar_hu_ed327d61dc30c605.jpg</url>
       <title>常远</title>
-      <link>https://dare-group.github.io/author/%E5%B8%B8%E8%BF%9C/</link>
+      <link>http://localhost:1313/author/%E5%B8%B8%E8%BF%9C/</link>
     </image>
     
     <item>
       <title>常远</title>
-      <link>https://dare-group.github.io/author/%E5%B8%B8%E8%BF%9C/</link>
+      <link>http://localhost:1313/author/%E5%B8%B8%E8%BF%9C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/author/%E5%B8%B8%E8%BF%9C/</guid>
+      <guid>http://localhost:1313/author/%E5%B8%B8%E8%BF%9C/</guid>
       <description>&lt;p&gt;目前于西安交通大学网络安全方向攻读博士研究生，主要研究方向为应用密码学，区块链隐私保护与监管，对于密码学原理，人工智能与密码学的结合有一定的兴趣。&lt;/p&gt;
 </description>
     </item>

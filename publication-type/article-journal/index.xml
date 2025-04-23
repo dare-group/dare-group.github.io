@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | 网络空间安全学院Dare课题组</title>
-    <link>https://dare-group.github.io/publication-type/article-journal/</link>
-      <atom:link href="https://dare-group.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dare-group.github.io/media/icon_hu_5b4fc445eea16fa0.png</url>
+      <url>http://localhost:1313/media/icon_hu_5b4fc445eea16fa0.png</url>
       <title>Article-Journal</title>
-      <link>https://dare-group.github.io/publication-type/article-journal/</link>
+      <link>http://localhost:1313/publication-type/article-journal/</link>
     </image>
     
     <item>
       <title>An example journal article</title>
-      <link>https://dare-group.github.io/publication/journal-article/</link>
+      <link>http://localhost:1313/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/publication/journal-article/</guid>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

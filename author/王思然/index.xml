@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>王思然 | 网络空间安全学院Dare课题组</title>
-    <link>https://dare-group.github.io/author/%E7%8E%8B%E6%80%9D%E7%84%B6/</link>
-      <atom:link href="https://dare-group.github.io/author/%E7%8E%8B%E6%80%9D%E7%84%B6/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E7%8E%8B%E6%80%9D%E7%84%B6/</link>
+      <atom:link href="http://localhost:1313/author/%E7%8E%8B%E6%80%9D%E7%84%B6/index.xml" rel="self" type="application/rss+xml" />
     <description>王思然</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://dare-group.github.io/author/%E7%8E%8B%E6%80%9D%E7%84%B6/avatar_hu_89137d6c04648aa3.png</url>
+      <url>http://localhost:1313/author/%E7%8E%8B%E6%80%9D%E7%84%B6/avatar_hu_89137d6c04648aa3.png</url>
       <title>王思然</title>
-      <link>https://dare-group.github.io/author/%E7%8E%8B%E6%80%9D%E7%84%B6/</link>
+      <link>http://localhost:1313/author/%E7%8E%8B%E6%80%9D%E7%84%B6/</link>
     </image>
     
     <item>
       <title>王思然</title>
-      <link>https://dare-group.github.io/author/%E7%8E%8B%E6%80%9D%E7%84%B6/</link>
+      <link>http://localhost:1313/author/%E7%8E%8B%E6%80%9D%E7%84%B6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/author/%E7%8E%8B%E6%80%9D%E7%84%B6/</guid>
+      <guid>http://localhost:1313/author/%E7%8E%8B%E6%80%9D%E7%84%B6/</guid>
       <description>&lt;p&gt;目前于西安交通大学攻读硕士研究生，目前主要研究智能语音系统的优化。&lt;/p&gt;
 </description>
     </item>

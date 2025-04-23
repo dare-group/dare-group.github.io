@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>田聪 | 网络空间安全学院Dare课题组</title>
-    <link>https://dare-group.github.io/author/%E7%94%B0%E8%81%AA/</link>
-      <atom:link href="https://dare-group.github.io/author/%E7%94%B0%E8%81%AA/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E7%94%B0%E8%81%AA/</link>
+      <atom:link href="http://localhost:1313/author/%E7%94%B0%E8%81%AA/index.xml" rel="self" type="application/rss+xml" />
     <description>田聪</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://dare-group.github.io/author/%E7%94%B0%E8%81%AA/avatar_hu_282472de4dc2f2f9.jpg</url>
+      <url>http://localhost:1313/author/%E7%94%B0%E8%81%AA/avatar_hu_282472de4dc2f2f9.jpg</url>
       <title>田聪</title>
-      <link>https://dare-group.github.io/author/%E7%94%B0%E8%81%AA/</link>
+      <link>http://localhost:1313/author/%E7%94%B0%E8%81%AA/</link>
     </image>
     
     <item>
       <title>田聪</title>
-      <link>https://dare-group.github.io/author/%E7%94%B0%E8%81%AA/</link>
+      <link>http://localhost:1313/author/%E7%94%B0%E8%81%AA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/author/%E7%94%B0%E8%81%AA/</guid>
+      <guid>http://localhost:1313/author/%E7%94%B0%E8%81%AA/</guid>
       <description>&lt;p&gt;目前于西安交通大学网络空间安全方向攻读博士研究生，主要研究方向为博弈论（Mean-Field Game）、强化学习。对于系统优化、网络安全等领域也有一定的兴趣。&lt;/p&gt;
 </description>
     </item>

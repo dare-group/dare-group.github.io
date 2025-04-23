@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>网络空间安全学院Dare课题组</title>
-    <link>https://dare-group.github.io/</link>
-      <atom:link href="https://dare-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>网络空间安全学院Dare课题组</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dare-group.github.io/media/icon_hu_5b4fc445eea16fa0.png</url>
+      <url>http://localhost:1313/media/icon_hu_5b4fc445eea16fa0.png</url>
       <title>网络空间安全学院Dare课题组</title>
-      <link>https://dare-group.github.io/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>云脑巡检系统</title>
-      <link>https://dare-group.github.io/work/yunnao/</link>
+      <link>http://localhost:1313/work/yunnao/</link>
       <pubDate>Thu, 07 Mar 2024 13:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/work/yunnao/</guid>
+      <guid>http://localhost:1313/work/yunnao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Event</title>
-      <link>https://dare-group.github.io/event/example/</link>
+      <link>http://localhost:1313/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/event/example/</guid>
+      <guid>http://localhost:1313/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -36,10 +36,288 @@
     </item>
     
     <item>
+      <title>我的研究成果</title>
+      <link>http://localhost:1313/author/%E6%88%91%E7%9A%84%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/%E6%88%91%E7%9A%84%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;期刊论文&#34;&gt;期刊论文&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Digital Twin Empowered Heterogeneous Network Selection in Vehicular Networks with Knowledge Transfer&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Vehicular Technology&lt;/em&gt;, 2022. 借助知识迁移，提升车联网中异构网络的选择效率。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Data Synchronization in Vehicular Digital Twin Network: A Game Theoretic Approach&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Wireless Communications&lt;/em&gt;, 2023. 提出基于博弈论的数据同步策略。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Digital Twin Enabled Task Offloading for IoVs: A Learning-Based Approach&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Network Science and Engineering&lt;/em&gt;, 2023. 使用学习方法优化车联网任务卸载。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;ROS-Based Collaborative Driving Framework in Autonomous Vehicular Networks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Vehicular Technology&lt;/em&gt;, 2023. 基于 ROS 构建协同自动驾驶系统架构。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;AMIS-MU: Edge Computing Based Adaptive Video Streaming for Multiple Mobile Users&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Mobile Computing&lt;/em&gt;, 2022. 针对多用户的视频流媒体传输提出边缘优化策略。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Breaking Down Data Sharing Barrier of Smart City: A Digital Twin Approach&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Network&lt;/em&gt;, 2023. 提出一种利用数字孪生打破智慧城市数据共享障碍的新范式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;A Secure and Lightweight Data Sharing Scheme in Vehicular Digital Twin Network&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Peer-to-Peer Networking and Applications&lt;/em&gt;, 2024. 面向车联网提出轻量级安全数据共享机制。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1109/TNSM.2023.3257993&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applying Graph Neural Networks to Support Decision Making on Collective Intelligent Transportation Systems&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Network and Service Management&lt;/em&gt;, 2023.利用图神经网络提升智能交通系统的决策支持能力&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1109/TWC.2023.3313938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beamforming in Integrated Sensing and Communication Systems With Reconfigurable Intelligent Surfaces&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Wireless Communications&lt;/em&gt;, 2023.探讨了可重构智能表面在集成感知与通信系统中的波束成形技术&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1109/TWC.2024.3476474&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transformer-Assisted Parametric CSI Feedback for mmWave Massive MIMO Systems&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Wireless Communications&lt;/em&gt;, 2024.提出了一种基于Transformer的毫米波大规模MIMO系统参数化CSI反馈方法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1109/TWC.2023.3325192&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coverage Analysis of Joint Localization and Communication in THz Systems With 3D Arrays&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Wireless Communications&lt;/em&gt;, 2023.分析了太赫兹系统中使用三维阵列进行联合定位与通信的覆盖性能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1109/TWC.2024.3380737&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indoor Localization With Multi-Beam of 5G New Radio Signals&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Wireless Communications&lt;/em&gt;, 2024.研究了利用5G新无线信号的多波束进行室内定位的方法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1109/TNSM.2023.3242937&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Re-Scheduling IoT Services in Edge Networks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Network and Service Management&lt;/em&gt;, 2023.提出了一种边缘网络中物联网服务的重新调度机制，提升了服务的可靠性和效率&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1109/TNSM.2023.3280944&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Runtime Adaptation Framework for Fulfilling Availability and Continuity Requirements of Network Services&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Network and Service Management&lt;/em&gt;, 2023.构建了一个运行时适应框架，以满足网络服务的可用性和连续性需求&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1109/TNSM.2023.3274590&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enabling Time-Sensitive Network Management Over Multi-Domain Wired/Wi-Fi Networks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Network and Service Management&lt;/em&gt;, 2023.提出了一种在多域有线/无线网络中实现时间敏感网络管理的方法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://dl.acm.org/doi/abs/10.1109/TNSM.2023.3311587&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy-Preserving Deployment Mechanism for Service Function Chains Across Multiple Domains&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Network and Service Management&lt;/em&gt;, 2023.设计了一种跨多域服务功能链的隐私保护部署机制&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://dl.acm.org/doi/abs/10.1109/TNSM.2023.3287651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Survey on Machine Learning-Enabled Network Slicing: Covering the Entire Life Cycle&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Network and Service Management&lt;/em&gt;, 2023.综述了机器学习在网络切片全生命周期中的应用&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1109/TNSM.2024.3351737&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Capacitated Shortest Path Tour-Based Service Chaining Adaptive to Changes of Service Demand and Network Topology&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Network and Service Management&lt;/em&gt;, 2024.提出了一种基于容量限制最短路径巡游的服务链方法，适应服务需求和网络拓扑的变化&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://dl.acm.org/doi/abs/10.1109/TNSM.2024.3407159&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Two-Fold Traffic Flow Model for Network Security Management&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Network and Service Management&lt;/em&gt;, 2024.构建了一个双重流量模型，用于网络安全管理&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;会议论文&#34;&gt;会议论文&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;AMIS: Edge Computing Based Adaptive Mobile Video Streaming&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE INFOCOM&lt;/em&gt;, 2021. 基于边缘计算优化移动视频流媒体服务。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Device Placement for Autonomous Vehicles Using Reinforcement Learning&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE CPSCom&lt;/em&gt;, 2021. 利用强化学习优化自动驾驶设备部署。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Data Synchronization for Vehicular Digital Twin Network&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE GlobeCom&lt;/em&gt;, 2022. 提出一种适用于车联网数字孪生的数据同步机制。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Digital Twin-enabled Secure Charging Reservation for Electric Vehicle&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE ICCC&lt;/em&gt;, 2023. 引入数字孪生保障电动汽车充电预约安全性。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;A Game Theoretic Approach for Data Asset Protection in Metaverse&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE MetaCom&lt;/em&gt;, 2023. 荣获最佳论文奖，提出元宇宙中数据资产保护机制。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Long-Term Incentive Mechanism for Federated Learning: A Dynamic Repeated Game Approach&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE PIMRC&lt;/em&gt;, 2023. 使用动态博弈机制激励长期联邦学习。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;A Secure and Efficient Handover Authentication Based on Digital Twin in 5G-V2X&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE GlobeCom&lt;/em&gt;, 2023. 提出面向 5G-V2X 的数字孪生认证机制。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10437717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adaptive Multi-Link Data Allocation for LEO Satellite Networks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Global Communications Conference (GlobeCom)&lt;/em&gt;, 2024 提出了一种适用于低地球轨道卫星网络的自适应多链路数据分配策。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10437718&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Data Synchronization Incentive Scheme in Vehicular Digital Twin Network with Stackelberg Game&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Vehicular Technology Conference (VTC2024-Spring)&lt;/em&gt;, 2024 基于Stackelberg博弈，设计了车载数字孪生网络中的数据同步激励机。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10437719&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long-Term Incentive Mechanism for Federated Learning: A Dynamic Repeated Game Approach&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)&lt;/em&gt;, 2023 提出了一种基于动态重复博弈的联邦学习长期激励机。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10437720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Game Theoretic Approach for Data Asset Protection in Metaverse&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)&lt;/em&gt;, 2023 荣获最佳论文奖，提出了元宇宙中数据资产保护的博弈论方。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10437721&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Secure and Efficient Handover Authentication Based on Digital Twin in 5G-V2X&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Global Communications Conference (GlobeCom)&lt;/em&gt;, 2023 结合数字孪生技术，提升了5G-V2X中的切换认证的安全性和效。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10437722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Twin-Enabled Secure Charging Reservation for Electric Vehicle&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE/CIC International Conference on Communications in China (ICCC)&lt;/em&gt;, 2023 提出了一种基于数字孪生的电动汽车安全充电预约方。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10437723&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Device Placement for Autonomous Vehicles Using Reinforcement Learning&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE International Conferences on Physical and Social Computing (CPSCom)&lt;/em&gt;, 2022 利用强化学习优化自动驾驶车辆的设备部署策。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://dl.acm.org/doi/abs/10.1109/TWC.2023.3334250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reconfigurable Intelligent Surface Empowered Federated Edge Learning With Statistical CSI&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Wireless Communications&lt;/em&gt;, 2023 探讨了在统计信道状态信息下，利用可重构智能表面增强联邦边缘学习的方。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1109/TWC.2023.3313938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beamforming in Integrated Sensing and Communication Systems With Reconfigurable Intelligent Surfaces&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Wireless Communications&lt;/em&gt;, 2023 研究了在集成感知与通信系统中，利用可重构智能表面进行波束成形的技。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>我的研究成果</title>
+      <link>http://localhost:1313/author/%E6%88%91%E7%9A%84%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/%E6%88%91%E7%9A%84%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;期刊论文&#34;&gt;期刊论文&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;A Landmark Study on AI&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Nature&lt;/em&gt;, 2023. 该论文被引用超过 1000 次，是我团队的重要里程碑。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Quantum Stuff Nobody Understands&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Science&lt;/em&gt;, 2022. 与 MIT 合作完成。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;QTER: QoS-Aware 3D Routing for LEO Satellites&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Internet of Things Journal&lt;/em&gt;, 2025. 提出一种高效可靠的三维路由协议，面向 LEO 卫星网络。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;ACDV: Adaptive Content Delivery for Vehicular Digital Twins&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Vehicular Technology&lt;/em&gt;, 2025. 针对车联网数字孪生设计的自适应内容分发策略。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Digital Twin in 6G: Toward Network Intelligence&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Wireless Communications&lt;/em&gt;, 2024. 与多所高校合作，为 6G 网络智能化注入数字孪生理念。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Game-Theoretic Data Sync in Vehicular Twins&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Wireless Communications&lt;/em&gt;, 2023. 引入博弈论方法，实现车联网中数字孪生的数据同步。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Learning-Based Task Offloading for IoVs&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Network Science and Engineering&lt;/em&gt;, 2023. 利用机器学习优化车联网中的任务卸载。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Heterogeneous Network Selection with Knowledge Transfer&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Vehicular Technology&lt;/em&gt;, 2022. 借助知识迁移，提升异构车载网络中的选择效率。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;SECR: Secure Charging Reservation in Vehicular Twins&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Internet of Things Journal&lt;/em&gt;, 2024. 设计安全高效的充电预约机制，适配车载数字孪生系统。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Lightweight Data Sharing in Vehicular Twins&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Peer-to-Peer Networking and Applications&lt;/em&gt;, 2024. 面向车联网提出轻量级安全数据共享方案。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Smart City Data Sharing via Digital Twins&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Network&lt;/em&gt;, 2023. 聚焦智慧城市，通过数字孪生打破数据壁垒。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;AMIS-MU: Adaptive Video Streaming for Mobile Users&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Mobile Computing&lt;/em&gt;, 2022. 基于边缘计算，为多移动用户优化视频流服务。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;ROS-Based Collaborative Driving Framework&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Vehicular Technology&lt;/em&gt;, 2023. 基于 ROS 框架，支持自动驾驶中的协同驾驶机制。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;会议论文&#34;&gt;会议论文&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Content Delivery via Heterogeneous Networks in Vehicular Twins&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE ICC&lt;/em&gt;, 2025. 基于异构网络，优化车联网数字孪生内容传输性能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Adaptive Multi-Link Allocation for LEO Satellites&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE GlobeCom&lt;/em&gt;, 2024. 提出多链路自适应数据分配机制，面向 LEO 卫星网络。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Long-Term Incentives for Federated Learning&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE PIMRC&lt;/em&gt;, 2023. 利用动态重复博弈，激励联邦学习中的长期合作。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;RL-Based Device Placement for Autonomous Vehicles&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE CPSCom&lt;/em&gt;, 2021. 应用强化学习优化自动驾驶车辆设备部署策略。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;AMIS: Adaptive Mobile Video via Edge Computing&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE INFOCOM&lt;/em&gt;, 2021. 借助边缘计算，实现移动视频自适应流媒体传输。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Data Synchronization for Vehicular Twins&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE GlobeCom&lt;/em&gt;, 2022. 聚焦车联网数字孪生的数据同步机制。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Data Asset Protection in Metaverse: A Game Theoretic Method&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE MetaCom&lt;/em&gt;, 2023. 荣获最佳论文奖，提出元宇宙数据资产保护博弈模型。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Secure Handover Authentication for 5G-V2X&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE GlobeCom&lt;/em&gt;, 2023. 结合数字孪生技术，提升 5G-V2X 切换安全性。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Secure Charging Reservation for EVs via Digital Twin&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE ICCC&lt;/em&gt;, 2023. 在电动车充电预约中引入安全的数字孪生机制。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Incentive Scheme for Data Sync in Vehicular Twins&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE VTC-Spring&lt;/em&gt;, 2024. 采用 Stackelberg 博弈模型，激励车联网中数据同步。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Nightfall Deception: Backdoor Attack via Low-Light Manipulation&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;ADMA&lt;/em&gt;, Springer, 2024. 创新性提出低光照数据操控的交通标识后门攻击。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Semi-Tensor Sparse Coding for Short-Packet URLLC&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE WCNC&lt;/em&gt;, 2025. 面向 URLLC 提出低存储开销的稀疏向量编码方案。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#&#34;&gt;Stackelberg-Based Resource Trading in DAG-MEC Networks&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;IEEE WCNC&lt;/em&gt;, 2025. 结合 DAG 区块链与 Stackelberg 博弈，优化 MEC 资源交易。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Internet of Digital Twin: Framework, Applications and Enabling Technologies</title>
-      <link>https://dare-group.github.io/publication/internetofdigitaltwinframeworkapplicationsandenablingtechnologies/</link>
+      <link>http://localhost:1313/publication/internetofdigitaltwinframeworkapplicationsandenablingtechnologies/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/publication/internetofdigitaltwinframeworkapplicationsandenablingtechnologies/</guid>
+      <guid>http://localhost:1313/publication/internetofdigitaltwinframeworkapplicationsandenablingtechnologies/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -56,18 +334,18 @@
     
     <item>
       <title>栾老师于IEEE发表论文Internet of Digital Twin:Framework, Applications and Enabling Technologies</title>
-      <link>https://dare-group.github.io/post/build/</link>
+      <link>http://localhost:1313/post/build/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/post/build/</guid>
+      <guid>http://localhost:1313/post/build/</guid>
       <description>&lt;p&gt;恭喜栾老师在2025年3月25日在IEEE发表论文Internet of Digital Twin:Framework, Applications and Enabling Technologies。&lt;/p&gt;
 &lt;p&gt;2025年3月25日——西安交通大学网络空间安全学院栾浩教授团队的研究成果《Internet of Digital Twin: Framework, Applications and Enabling Technologies》近日被IEEE旗舰期刊（影响因子10.961）正式收录。该论文系统构建了数字孪生网络（IoDT）的功能框架与技术体系，为工业互联网、智慧城市等领域的虚实协同与安全防护提供了理论突破与实践路径，标志着我国在数字孪生技术领域的国际学术影响力进一步提升。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>SPIN：Accelerating Large Language Model Inference with Heterogeneous Speculative Models</title>
-      <link>https://dare-group.github.io/publication/spinaccelerating-large-language-model-inference-with-heterogeneous-speculative-models/</link>
+      <link>http://localhost:1313/publication/spinaccelerating-large-language-model-inference-with-heterogeneous-speculative-models/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/publication/spinaccelerating-large-language-model-inference-with-heterogeneous-speculative-models/</guid>
+      <guid>http://localhost:1313/publication/spinaccelerating-large-language-model-inference-with-heterogeneous-speculative-models/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -84,41 +362,41 @@
     
     <item>
       <title>“数字强边系列讲座”（第九期）顺利举行——西安交通大学栾浩教授</title>
-      <link>https://dare-group.github.io/event/build/</link>
+      <link>http://localhost:1313/event/build/</link>
       <pubDate>Thu, 07 Mar 2024 13:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/event/build/</guid>
+      <guid>http://localhost:1313/event/build/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://dare-group.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>https://dare-group.github.io/people/</link>
+      <link>http://localhost:1313/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/people/</guid>
+      <guid>http://localhost:1313/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>https://dare-group.github.io/tour/</link>
+      <link>http://localhost:1313/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/tour/</guid>
+      <guid>http://localhost:1313/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>https://dare-group.github.io/post/20-12-02-icml-best-paper/</link>
+      <link>http://localhost:1313/post/20-12-02-icml-best-paper/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/post/20-12-02-icml-best-paper/</guid>
+      <guid>http://localhost:1313/post/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -127,9 +405,9 @@
     
     <item>
       <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>https://dare-group.github.io/post/20-12-01-wowchemy-prize/</link>
+      <link>http://localhost:1313/post/20-12-01-wowchemy-prize/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/post/20-12-01-wowchemy-prize/</guid>
+      <guid>http://localhost:1313/post/20-12-01-wowchemy-prize/</guid>
       <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -138,9 +416,9 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://dare-group.github.io/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/publication/preprint/</guid>
+      <guid>http://localhost:1313/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -152,9 +430,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>https://dare-group.github.io/publication/journal-article/</link>
+      <link>http://localhost:1313/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/publication/journal-article/</guid>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -171,9 +449,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>https://dare-group.github.io/publication/conference-paper/</link>
+      <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -190,9 +468,9 @@
     
     <item>
       <title></title>
-      <link>https://dare-group.github.io/admin/config.yml</link>
+      <link>http://localhost:1313/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/admin/config.yml</guid>
+      <guid>http://localhost:1313/admin/config.yml</guid>
       <description></description>
     </item>
     

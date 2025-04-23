@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tom Luan 栾浩 | 网络空间安全学院Dare课题组</title>
-    <link>https://dare-group.github.io/author/tom-luan-%E6%A0%BE%E6%B5%A9/</link>
-      <atom:link href="https://dare-group.github.io/author/tom-luan-%E6%A0%BE%E6%B5%A9/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/tom-luan-%E6%A0%BE%E6%B5%A9/</link>
+      <atom:link href="http://localhost:1313/author/tom-luan-%E6%A0%BE%E6%B5%A9/index.xml" rel="self" type="application/rss+xml" />
     <description>Tom Luan 栾浩</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://dare-group.github.io/author/tom-luan-%E6%A0%BE%E6%B5%A9/avatar_hu_97013dff1203c29b.jpg</url>
+      <url>http://localhost:1313/author/tom-luan-%E6%A0%BE%E6%B5%A9/avatar_hu_97013dff1203c29b.jpg</url>
       <title>Tom Luan 栾浩</title>
-      <link>https://dare-group.github.io/author/tom-luan-%E6%A0%BE%E6%B5%A9/</link>
+      <link>http://localhost:1313/author/tom-luan-%E6%A0%BE%E6%B5%A9/</link>
     </image>
     
     <item>
       <title>Tom Luan 栾浩</title>
-      <link>https://dare-group.github.io/author/tom-luan-%E6%A0%BE%E6%B5%A9/</link>
+      <link>http://localhost:1313/author/tom-luan-%E6%A0%BE%E6%B5%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/author/tom-luan-%E6%A0%BE%E6%B5%A9/</guid>
+      <guid>http://localhost:1313/author/tom-luan-%E6%A0%BE%E6%B5%A9/</guid>
       <description>&lt;p&gt;栾浩教授的研究方向主要集中在无线通信网络构建、协议设计、性能分析与系统安全，主要包括无线多媒体网络、边缘计算网络、数字孪生网络、车联网、移动计算等，发表学术论文200余篇，出版英文专著5本。主持国家自然科学基金面上项目，区域联合重点项目，科技部重点研发计划项目课题，澳大利亚ARC Linkage项目。曾获IEEE Vehicular Technology Society 2017 Best Land Transportation Paper Award，澳大利亚迪肯大学信息学院杰出科研奖，加拿大安大略省研究与开发贝尔奖学金，国家优秀自费留学生奖学金，陕西省百人计划等奖项。&lt;/p&gt;
+&lt;p&gt;👉&lt;a href=&#34;http://localhost:1313/author/%E6%88%91%E7%9A%84%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/&#34;&gt;查看全部研究成果&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

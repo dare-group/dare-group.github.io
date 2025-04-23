@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | 网络空间安全学院Dare课题组</title>
-    <link>https://dare-group.github.io/authors/</link>
-      <atom:link href="https://dare-group.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/</link>
+      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dare-group.github.io/media/icon_hu_5b4fc445eea16fa0.png</url>
+      <url>http://localhost:1313/media/icon_hu_5b4fc445eea16fa0.png</url>
       <title>Authors</title>
-      <link>https://dare-group.github.io/authors/</link>
+      <link>http://localhost:1313/authors/</link>
     </image>
     
   </channel>

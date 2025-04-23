@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>胡帝豪 | 网络空间安全学院Dare课题组</title>
-    <link>https://dare-group.github.io/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/</link>
-      <atom:link href="https://dare-group.github.io/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/</link>
+      <atom:link href="http://localhost:1313/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/index.xml" rel="self" type="application/rss+xml" />
     <description>胡帝豪</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://dare-group.github.io/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/avatar_hu_8407123df7e62c98.jpg</url>
+      <url>http://localhost:1313/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/avatar_hu_8407123df7e62c98.jpg</url>
       <title>胡帝豪</title>
-      <link>https://dare-group.github.io/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/</link>
+      <link>http://localhost:1313/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/</link>
     </image>
     
     <item>
       <title>胡帝豪</title>
-      <link>https://dare-group.github.io/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/</link>
+      <link>http://localhost:1313/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dare-group.github.io/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/</guid>
+      <guid>http://localhost:1313/author/%E8%83%A1%E5%B8%9D%E8%B1%AA/</guid>
       <description>&lt;p&gt;目前于西安交通大学网络空间安全方向攻读博士研究生，主要研究方向为强化学习、博弈论、视频流处理。对于嵌入式系统、网络安全等领域有一定的兴趣。&lt;/p&gt;
 </description>
     </item>
