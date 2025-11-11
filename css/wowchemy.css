@@ -9751,7 +9751,7 @@ div.chart {
   margin-left: var(--fa-li-margin, 2.5em);
   padding-left: 0; }
 
-ul.ul-Researchachievement {
+ul.ul-ResearchAreass {
   display: flex;
   /* 将 ul 设置为弹性布局 */
   flex-wrap: wrap;
@@ -9763,7 +9763,7 @@ ul.ul-Researchachievement {
   margin: 0;
   /* 可选：移除默认的 ul 外边距 */ }
 
-ul.ul-Researchachievement li {
+ul.ul-ResearchAreas li {
   position: relative;
   padding: 0 12px 4px 5px;
   white-space: nowrap;
@@ -9837,3 +9837,46 @@ footer .powered-by {
   margin-right: 8px;
   height: 22px;
   vertical-align: text-bottom; }
+
+/* People 卡片的排版微调 */
+.people-widget .people-person {
+  padding: .25rem 0 1rem; }
+
+/* 头像大小可以略小一点，卡片更清爽；不需要就删掉这两行 */
+.people-widget .people-person img.avatar {
+  width: 112px;
+  height: 112px; }
+
+.people-widget .portrait-title {
+  max-width: 22rem;
+  margin-left: auto;
+  margin-right: auto; }
+
+.people-widget .portrait-title h2 {
+  margin: .5rem 0 .125rem;
+  line-height: 1.25;
+  white-space: nowrap;
+  /* 名字尽量不换行（英文名+中文名更紧凑）*/
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+.people-widget .portrait-title h3 {
+  margin: .125rem 0 .25rem;
+  line-height: 1.4;
+  color: #6c757d;
+  /* Bootstrap 的灰 */
+  font-weight: 500; }
+
+.people-widget .people-interests {
+  margin-top: .25rem;
+  line-height: 1.5;
+  color: #6c757d; }
+
+.conf-table {
+  font-size: .95rem; }
+
+.conf-table th {
+  white-space: nowrap; }
+
+.conf-table td, .conf-table th {
+  vertical-align: middle; }

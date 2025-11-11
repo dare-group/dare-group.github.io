@@ -6,6 +6,12 @@
     <lastmod>2024-03-07T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/resources/conference/icml-2025/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/resources/conference/tmc/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,6 +21,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/%E6%88%91%E7%9A%84%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/</loc>
     <lastmod>2025-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -124,6 +134,22 @@
   </url><url>
     <loc>http://localhost:1313/publication/spinaccelerating-large-language-model-inference-with-heterogeneous-speculative-models/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/nas/</loc>
+    <lastmod>2025-03-01T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/%E5%86%85%E9%83%A8%E6%9C%8D%E5%8A%A1/</loc>
+    <lastmod>2025-03-01T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/resources/notice/2025-03-01-nas-maintenance/</loc>
+    <lastmod>2025-03-01T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/resources/</loc>
+    <lastmod>2025-03-01T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/event/build/</loc>

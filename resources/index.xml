@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>资源与通知 | 网络空间安全学院Dare课题组</title>
+    <link>http://localhost:1313/resources/</link>
+      <atom:link href="http://localhost:1313/resources/index.xml" rel="self" type="application/rss+xml" />
+    <description>资源与通知</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Mar 2025 09:00:00 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_5b4fc445eea16fa0.png</url>
+      <title>资源与通知</title>
+      <link>http://localhost:1313/resources/</link>
+    </image>
+    
+    <item>
+      <title>ICML 2025</title>
+      <link>http://localhost:1313/resources/conference/icml-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/conference/icml-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IEEE TMC</title>
+      <link>http://localhost:1313/resources/conference/tmc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/conference/tmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>实验室 NAS 访问入口</title>
+      <link>http://localhost:1313/resources/notice/2025-03-01-nas-maintenance/</link>
+      <pubDate>Sat, 01 Mar 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/resources/notice/2025-03-01-nas-maintenance/</guid>
+      <description>&lt;p&gt;👇 请选择访问方式：&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.zconnect.cn/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;浏览器（VPN）&lt;/a&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-sm&#34; href=&#34;https://download.zspace.cn/#pc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电脑客户端&lt;/a&gt;
+&lt;a class=&#34;btn btn-inline-primary btn-sm&#34; href=&#34;192.168.10.44/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;彭康楼内网&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;账号：手机号&lt;/li&gt;
+&lt;li&gt;密码：首次登录请修改；忘记请联系管理员&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
