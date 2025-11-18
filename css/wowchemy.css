@@ -9880,3 +9880,208 @@ footer .powered-by {
 
 .conf-table td, .conf-table th {
   vertical-align: middle; }
+
+/* 仅个人页面的头像尺寸（不影响首页团队列表） */
+#profile .avatar {
+  width: 130px;
+  /* 想再小改这里，例如 120px/128px/160px */
+  height: 130px; }
+
+/* 个人页(#profile)左侧社交图标缩小一点 */
+#profile .network-icon i.big-icon {
+  font-size: 1.05rem !important;
+  /* 你也可以用 1rem/1.1rem/16px/18px 试 */
+  line-height: 1;
+  /* 避免看起来“顶到上面” */ }
+
+#profile .network-icon li {
+  margin: 0 .25rem;
+  /* 图标之间留一点空 */ }
+
+#profile .network-icon a {
+  padding: 0;
+  /* 去掉多余内边距（不同版本可能有） */ }
+
+/* 个人页左列整体紧凑 */
+#profile .portrait-title {
+  margin-bottom: .35rem; }
+
+/* 标题块与图标之间缩紧 */
+#profile .portrait-title h2 {
+  margin: .25rem 0 .125rem;
+  line-height: 1.2; }
+
+#profile .portrait-title h3 {
+  margin: .125rem 0;
+  line-height: 1.35; }
+
+/* 社交图标与上面内容的距离 + 图标间距更紧 */
+#profile .network-icon {
+  margin-top: .35rem; }
+
+/* 原来通常更大 */
+#profile .network-icon li {
+  margin: 0 .2rem; }
+
+/* 图标之间缩一点 */
+.hero-carousel .hero-slide {
+  position: relative;
+  background-size: cover;
+  background-position: center; }
+
+.hero-carousel .hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45); }
+
+.hero-carousel h1, .hero-carousel .lead {
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.45); }
+
+@media (max-width: 576px) {
+  .hero-carousel h1 {
+    font-size: 1.75rem; }
+  .hero-carousel .lead {
+    font-size: 1rem; } }
+
+.hero-carousel .hero-slide {
+  position: relative;
+  background-size: cover;
+  background-position: center; }
+
+.hero-carousel .hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  z-index: 1;
+  pointer-events: none; }
+
+.hero-carousel .hero-slide .container {
+  position: relative;
+  z-index: 2; }
+
+.hero-carousel .carousel-control-prev,
+.hero-carousel .carousel-control-next {
+  z-index: 4;
+  width: 12%; }
+
+.hero-carousel h1, .hero-carousel .lead {
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.45); }
+
+@media (max-width: 576px) {
+  .hero-carousel h1 {
+    font-size: 1.75rem; }
+  .hero-carousel .lead {
+    font-size: 1rem; } }
+
+/* 让卡片封面图统一 16:9，并裁剪居中 */
+.card .article-banner img,
+.card .article-banner picture > img {
+  width: 100%;
+  height: 220px;
+  /* 可改 180~260 */
+  object-fit: cover;
+  object-position: center; }
+
+.posts-grid .card-img-top {
+  height: 220px;
+  /* 想更矮/更高就改这个值 */
+  object-fit: cover;
+  object-position: center; }
+
+/* —— 让首页 #hero 轮播全屏宽 —— */
+/* 1) 去掉该区块外层 container 的最大宽度与左右内边距 */
+#hero > .container {
+  max-width: 100% !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important; }
+
+/* 2) 让轮播本身“破出容器”，占满视口宽度 */
+#hero .hero-carousel {
+  width: 100vw;
+  /* 视口宽度 */
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  /* 向两侧各拉 50vw，达到贴边效果 */
+  margin-right: -50vw; }
+
+/* 可选：让指示点离底更近一点 */
+#hero .carousel-indicators {
+  bottom: 1rem; }
+
+/* Alumni 样式 */
+.alumni-grid .avatar {
+  width: 140px;
+  height: 140px;
+  object-fit: cover; }
+
+.alumni-grid .portrait-title h2 {
+  font-size: 1.1rem;
+  margin-bottom: .15rem; }
+
+.alumni-grid .portrait-title h3 {
+  font-size: .95rem;
+  margin: .1rem 0;
+  color: rgba(0, 0, 0, 0.65);
+  line-height: 1.2; }
+
+.alumni-grid .alumni-icons a,
+.alumni-grid .alumni-icons span {
+  display: inline-block;
+  margin: 0 .25rem;
+  font-size: 1rem;
+  color: var(--hb-primary, #1f6feb);
+  /* 主题主色，找不到就用蓝色 */ }
+
+@media (min-width: 992px) {
+  .alumni-grid .avatar {
+    width: 120px;
+    height: 120px; } }
+
+/* 首页：收紧轮播与“最新消息”的间距 */
+#hero.home-section {
+  padding-bottom: 12px !important; }
+
+#news.home-section {
+  padding-top: 12px !important; }
+
+/* （可选）标题区域再稍微压一压 */
+#news .section-heading {
+  margin-top: 0 !important; }
+
+/* —— 首页轮播(#hero) 文字样式 —— */
+/* 标题（Dare 课题组 / 6G 与未来...） */
+#hero .hero-carousel h1 {
+  /* 字体族：先用思源黑体/苹方/微软雅黑，没装再退回系统无衬线 */
+  font-family: "Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;
+  font-size: 3rem;
+  /* 标题大小：可改 2.4rem~3.6rem */
+  font-weight: 700;
+  /* 700=加粗 */
+  letter-spacing: .5px;
+  /* 字距 */
+  line-height: 1.2;
+  /* 标题颜色（示例：微微偏亮的金色）*/
+  color: #ffe28a !important;
+  /* 覆盖掉 .text-white */
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.45);
+  /* 提升可读性 */ }
+
+/* 正文（段落） */
+#hero .hero-carousel .lead {
+  font-family: "Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;
+  font-size: 1.1rem;
+  /* 正文字号 */
+  font-weight: 400;
+  color: #e9eef5 !important;
+  /* 正文颜色 */
+  line-height: 1.75;
+  text-shadow: 0 1px 10px rgba(0, 0, 0, 0.4); }
+
+/* （可选）调整遮罩强度/渐变，让字更清晰 */
+#hero .hero-overlay {
+  /* 单一透明度：*/
+  /* background: rgba(0,0,0,.38); */
+  /* 或者做个从左到右的渐变遮罩：*/
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.55) 0%, rgba(0, 0, 0, 0.28) 40%, rgba(0, 0, 0, 0.2) 100%); }

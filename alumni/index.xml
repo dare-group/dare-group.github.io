@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alumni | 网络空间安全学院Dare课题组</title>
+    <link>http://localhost:1313/alumni/</link>
+      <atom:link href="http://localhost:1313/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alumni</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_5b4fc445eea16fa0.png</url>
+      <title>Alumni</title>
+      <link>http://localhost:1313/alumni/</link>
+    </image>
+    
+    <item>
+      <title>蔡宇辰</title>
+      <link>http://localhost:1313/alumni/%E8%94%A1%E5%AE%87%E8%BE%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alumni/%E8%94%A1%E5%AE%87%E8%BE%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>李建科</title>
+      <link>http://localhost:1313/alumni/%E6%9D%8E%E5%BB%BA%E7%A7%91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alumni/%E6%9D%8E%E5%BB%BA%E7%A7%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>李峥</title>
+      <link>http://localhost:1313/alumni/%E6%9D%8E%E5%B3%A5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alumni/%E6%9D%8E%E5%B3%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>杨晓庆</title>
+      <link>http://localhost:1313/alumni/%E6%9D%A8%E6%99%93%E5%BA%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alumni/%E6%9D%A8%E6%99%93%E5%BA%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>杨雅琪</title>
+      <link>http://localhost:1313/alumni/%E6%9D%A8%E9%9B%85%E7%90%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alumni/%E6%9D%A8%E9%9B%85%E7%90%AA/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
