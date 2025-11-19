@@ -10085,3 +10085,16 @@ footer .powered-by {
   /* background: rgba(0,0,0,.38); */
   /* 或者做个从左到右的渐变遮罩：*/
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.55) 0%, rgba(0, 0, 0, 0.28) 40%, rgba(0, 0, 0, 0.2) 100%); }
+
+/* People 页面收紧行距 */
+.people-widget .mb-5 {
+  margin-bottom: 1.25rem !important; }
+
+/* 原来 3rem */
+.people-widget h2.mb-4 {
+  margin-bottom: .5rem !important; }
+
+/* 原来 1.5rem */
+/* 每个人卡片底部也稍微收一点（可选） */
+.people-widget .people-person {
+  margin-bottom: .75rem; }
